@@ -1,0 +1,29 @@
+name: Update GitHub Trophies
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every night at midnight
+  workflow_dispatch:     # Allows you to trigger it manually anytime
+
+permissions:
+  contents: write       # Grants permission to save the image to your repository
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Trophies
+        uses: ryantm/github-profile-trophy-action@v1.0.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@://github.com"
+          git config --local user.name "github-actions[bot]"
+          git add trophy.svg
+          git commit -m "Update github profile trophies" || exit 0
+          git push
