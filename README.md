@@ -1,9 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hello! My name is Ricardo Rosario.</h1>
+<h3 align="center">Currently studying to become a software developer.</h3>
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardoarosario" alt="ricardoarosario" /></a></p>
 
 <!--
 **ricardoarosario/ricardoarosario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some examples:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
