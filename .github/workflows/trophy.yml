@@ -15,14 +15,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Trophies
-        uses: ryantm/github-profile-trophy-action@v1.0.0
+      - name: Generate Trophy Card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
+          options: 'username=ricardoarosario'
+          path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.email "github-actions[bot]@://github.com"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add trophy.svg
           git commit -m "Update github profile trophies" || exit 0
