@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Trophy Card
-        uses: soulteary/github-profile-trophy-action@v1.0.0
+        uses: soulteary/profile-trophy-action@v1.0.0
         with:
           options: 'username=ricardoarosario'
           path: trophy.svg
