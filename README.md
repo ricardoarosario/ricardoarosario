@@ -1,14 +1,14 @@
 <h1 align="center">Hello! I'm Ricardo Rosario.</h1>
-<h3 align="center">Currently studying to become a certified software developer.</h3>
-
-
+<h3 align="center">Studying to become a certified software developer.</h3>
 
 <h4 align="left"><b>I currently have:</b></h4>
-✅ ERA Academy Certification: HTML/CSS (August 2026)
-✅ ERA Academy Certification: JavaScript (September 2026)</h4>
+
+<div>✅ Coalition of Information Technology Businesses Certification: <b>HTML/CSS</b> (August 2026)</div>
+<div>✅ Coalition of Information Technology Businesses Certification: <b>JavaScript</b> (September 2026)</div>
+
 
 <h4 align="left"><b>I'm currently working on:</b></h4>
-🌱 ERA Academy Certification: ReactJS
+<div>📖 Coalition of Information Technology Businesses Certification: <b>ReactJS</b></div>
 
 <h4 align="left"><b>Find me on LinkedIn!</b></h4>🔭 https://www.linkedin.com/in/ricardo-rosario/
 <h4 align="left"><b>Contact Me:</b></h4>📫 ricardo.a2046@gmail.com
