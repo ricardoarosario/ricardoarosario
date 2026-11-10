@@ -5,10 +5,11 @@
 
 <div>✅ Coalition of Information Technology Businesses Certification: <b>HTML/CSS</b> (August 2026)</div>
 <div>✅ Coalition of Information Technology Businesses Certification: <b>JavaScript</b> (September 2026)</div>
+<div>✅ Coalition of Information Technology Businesses Certification: <b>ReactJS</b> (November 2026)</div>
 
 
 <h4 align="left"><b>I'm currently working on:</b></h4>
-<div>📖 Coalition of Information Technology Businesses Certification: <b>ReactJS</b></div>
+<div>📖 Coalition of Information Technology Businesses Certification: <b>MySQL</b></div>
 
 <h4 align="left"><b>Find me on LinkedIn!</b></h4>🔭 https://www.linkedin.com/in/ricardo-rosario/
 <h4 align="left"><b>Contact Me:</b></h4>📫 ricardo.a2046@gmail.com
