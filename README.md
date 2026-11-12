@@ -2,13 +2,13 @@
 
 <h4 align="left"><b>I'm currently certified in:</b></h4>
 
-<div>✅ Coalition of Information Technology Businesses Certification: <b>HTML/CSS</b> (August 2026)</div>
-<div>✅ Coalition of Information Technology Businesses Certification: <b>JavaScript</b> (September 2026)</div>
-<div>✅ Coalition of Information Technology Businesses Certification: <b>ReactJS</b> (November 2026)</div>
+<div>✅ Coalition of Information Technology Businesses Certification: <b>HTML/CSS Web Designer</b> (August 2026)</div>
+<div>✅ Coalition of Information Technology Businesses Certification: <b>JavaScript Professional Developer</b> (September 2026)</div>
+<div>✅ Coalition of Information Technology Businesses Certification: <b>ReactJS Framework Developer</b> (November 2026)</div>
 
 
 <h4 align="left"><b>I'm currently working on:</b></h4>
-<div>📖 Coalition of Information Technology Businesses Certification: <b>MySQL</b></div>
+<div>📖 Coalition of Information Technology Businesses Certification: <b>MySQL Backend Developer</b></div>
 
 <h3 align="left"><b>⚙️ Tech Stack</b></h3>
 
