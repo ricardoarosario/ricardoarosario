@@ -1,4 +1,6 @@
-<h1 align="center">Hello! I'm Ricardo Rosario.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Ricardo+Rosario!;Studying+to+become+a+certified+Fullstack+Developer)](https://git.io/typing-svg)
+
+<h1 align="center">Hello! I'm Ricardo Rosario!</h1>
 <h3 align="center">Studying to become a certified software developer.</h3>
 
 <h4 align="left"><b>I currently have:</b></h4>
